@@ -23,8 +23,3 @@ go test -v ./...
 go test -cover ./...
 ```
 Coverage: 84.8% of statements
-```powershell
-git add README.md
-git commit -m "Add README"
-git push
-```
